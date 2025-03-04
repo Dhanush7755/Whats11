@@ -1,2 +1,2 @@
 # Instagram
-chat
+Social Media
